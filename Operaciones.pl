@@ -1,5 +1,5 @@
 %Presentado por: Fabian Alexander Franco Quiroga - 20152020048
-%Ejemplo en prolog de una calculadora.
+%Ejemplo en prolog de una calculadora con operaciones basicas.
 %
 operaciones:-write('Ingrese el primer numero= '),
       read(A),
